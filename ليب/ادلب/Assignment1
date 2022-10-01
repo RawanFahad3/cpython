@@ -1,0 +1,8 @@
+Foot=15.4
+Meter=9
+
+Meter_to_Foot=9*3.281
+Foot_to_Meter=15.4/3.281
+
+print(Meter,"Meter to Foot is:",Meter_to_Foot)
+print(Foot,"Foot to Meter is:",Foot_to_Meter)
